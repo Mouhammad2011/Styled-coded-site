@@ -2,7 +2,7 @@
 <html>
   <head>
     <titel>I can do simple coding now</titel>
-     <link rel="stylesheet" type="text/css" href="styles.css">
+     <link rel="stylesheet" type="text/css" href="style.css">
   </head>
     <body> 
       <h1>ok i know that this might sound crazy</h1>
